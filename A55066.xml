@@ -418,9 +418,12 @@ or <hi>Instrumental,</hi> yet when any of the parts which it is divided into, <h
                            <l>Notes Names are known, knowing their places,</l>
                         </q>
                      </p>
-                     <figure>
-                        <head>THE GAM-VT, OR SCALE OF MUSICK.</head>
-                     </figure>
+                     <p>
+                        <pb n="6" facs="tcp:97795:11"/>
+                        <figure>
+                           <head>THE GAM-VT, OR SCALE OF MUSICK.</head>
+                        </figure>
+                     </p>
                      <p>
                         <pb n="7" facs="tcp:97795:11"/>A Second Table of the <hi>Scale of MUSICK</hi> called the <hi>GAM-VT,</hi> in which every <hi>Key</hi> or <hi>Note</hi> is put in its proper place upon the Five Lines, according to the two usual signed Cleaves or Cliffs, <hi>viz.</hi> the <hi>Bass</hi> and the <hi>Treble,</hi> ascending from the lowest Note of the <hi>Bass</hi> to the highest in the <hi>Treble.</hi>
                      </p>
@@ -736,9 +739,11 @@ same with <hi>A la mi re</hi> sharp; and <hi>C fa ut</hi> sharp, is <hi>D sol re
 <pb n="25" facs="tcp:97795:20"/>
 being longest in sound; and the <hi>Semibreve</hi> the last of Augmentation, being shortest in sound: In Time, it is called the <hi>Master-Note,</hi> being of one certain Measure by it self. All the other Notes, both of Aug<g ref="char:EOLhyphen"/>mentation and Diminution, are measured by or proportioned to its value: The <hi>Large</hi> con<g ref="char:EOLhyphen"/>tains eight <hi>Semibreves,</hi> the <hi>Long</hi> four, and the <hi>Breve</hi> two. The Notes of Diminution, <hi>viz. Minim, Crotchet, Quaver,</hi> and <hi>Semiquaver,</hi> are reckoned to, as the others were measured by the <hi>Semibreve;</hi> and, according to the ordi<g ref="char:EOLhyphen"/>nary proportion of Time, two <hi>Minims</hi> are accounted to the <hi>Semibreve,</hi> two <hi>Crotchets</hi> to the <hi>Minim,</hi> two <hi>Quavers</hi> to the <hi>Crotchet,</hi> and two <hi>Semiquavers</hi> to the <hi>Quaver.</hi>
                      </p>
-                     <figure>
-                        <head>Notes of Augmentation. Notes of Diminution.</head>
-                     </figure>
+                     <p>Example.
+<figure>
+                           <head>Notes of Augmentation. Notes of Diminution.</head>
+                        </figure>
+                     </p>
                   </div>
                   <div n="8" type="chapter">
                      <pb n="26" facs="tcp:97795:21"/>
@@ -753,7 +758,9 @@ being longest in sound; and the <hi>Semibreve</hi> the last of Augmentation, bei
                      <p>
                         <hi>PAuses</hi> or <hi>Kests</hi> are silent <hi>Characters,</hi> or an <hi>artificial</hi> omission of the <hi>Voyce</hi> or <hi>Sound,</hi> proportioned to a certain <hi>Measure</hi> of <hi>Time,</hi> by <hi>motion</hi> of the hand or foot (whereby the Quantity of Notes and Rests are directed) by an equal <hi>measure,</hi> the <hi>signatures</hi> and <hi>characters</hi> of which are placed over each Note in the Example at the beginning of this Chapter.</p>
                      <p>To these Notes appertain also certain other <hi>Rules,</hi> as <hi>Augmentation, Syncopation, Pricks of Perfection</hi> or <hi>Addition</hi>; of which, I shall only set down what is necessary to be understood by the Practitioner; as first, of the <hi>Pricks of Perfection</hi> or <hi>Addition</hi>; next, of <hi>Syncopation,</hi> or breaking of the <hi>Time,</hi> by the Driving a <hi>Minim</hi> through <hi>Semibreves,</hi> or <hi>Crotchets</hi> through <hi>Minims,</hi> which is the bea<g ref="char:EOLhyphen"/>ting the Time in the middle of such Notes.</p>
-                     <figure/>
+                     <p>
+                        <pb n="27" facs="tcp:97795:21"/>First, this <hi>Prick</hi> of <hi>Perfection</hi> of <hi>Addition</hi> is ever placed on the right side of all Notes thus, <figure/> for the prolonging the <hi>sound</hi> of that Note it follows to half as much more as it is: For Example, the <hi>Prick</hi> which is placed after a <hi>Semibreve</hi> is in proportion a <hi>Minim,</hi> and makes that <hi>Semibreve</hi> which be<g ref="char:EOLhyphen"/>fore was but two <hi>Minims</hi> to be three <hi>Minims,</hi> in one continued Sound; and so the like pro<g ref="char:EOLhyphen"/>portion to other Notes. <hi>Example.</hi>
+                     </p>
                      <p>Prick <hi>Long. Breve. Semibreve. Minim. Crotchet. Quaver.</hi> 
                         <gap reason="music">
                            <desc>〈♫〉</desc>
@@ -2122,9 +2129,12 @@ its Lessons are by the <hi>F fa vt</hi> Cliff <gap reason="symbol" extent="1 let
                         </gap> These three <hi>Viols</hi> agree in one manner of Tu<g ref="char:EOLhyphen"/>ning; where I shall give you the Directi<g ref="char:EOLhyphen"/>ons for Tuning the <hi>Bass-Viol,</hi> which is usually strung with <hi>six Strings</hi> (as you may observe on the Figure expressed in the foregoing page) which six strings are known by six se<g ref="char:EOLhyphen"/>veral names; the <hi>first,</hi> which is the smallest, is called the <hi>Treble</hi>; the <hi>second,</hi> the <hi>small Mean</hi>; the <hi>third,</hi> the <hi>great Mean</hi>; the <hi>fourth,</hi> the <hi>Counter-Tenor</hi>; the <hi>fifth,</hi> the <hi>Tenor</hi> or <hi>Gam-vt</hi> string; the <hi>sixth,</hi> the <hi>Bass.</hi> But if you will name them after they are Tuned, ac<g ref="char:EOLhyphen"/>cording to the Rule of the <hi>Gam-vt,</hi> the <hi>Tre<g ref="char:EOLhyphen"/>ble string,</hi> is <hi>D la sol re</hi>; the <hi>smal Mean, A la mi re</hi>; the <hi>great Mean, E la mi;</hi> the <hi>Counter-Tenor, C fa vt</hi>; the <hi>Tenor</hi> or fifth string, <hi>Gam-vt;</hi> and the sixth or <hi>Bass, double D sol re.</hi> Belonging to these <hi>six strings</hi> there are <hi>seven Frets</hi> or <hi>Stops</hi> on the neck of your <hi>Viol,</hi> which are for stopping the various Sounds, accor<g ref="char:EOLhyphen"/>ding to the several Notes of the <hi>Gam-vt,</hi> both <hi>Flats</hi> and <hi>Sharps:</hi> For the more plain under<g ref="char:EOLhyphen"/>standing of which, I have drawn an exact Ta<g ref="char:EOLhyphen"/>ble in the following <hi>pag.</hi> 88. beginning with the lowest Note on your <hi>sixth string,</hi> and so a<g ref="char:EOLhyphen"/>scending to the highest on the <hi>first</hi> or <hi>Treble string.</hi> Your perfect understanding of that
 <pb n="93" facs="tcp:97795:54"/>
 Table will much further you in the know<g ref="char:EOLhyphen"/>ledg of Tuning your <hi>Viol</hi>; for which Tuning I will give you two Rules, one by <hi>Tableture</hi> or <hi>Letters,</hi> the other by the <hi>Gam-vt</hi> Rule; the first being the easiest way to a Beginner, whose Ear at first is not well acquainted with the several distances of Sounds that the Strings are Tuned in, shall by this way use only one Sounding, <hi>viz.</hi> an <hi>Unison,</hi> which is to make two strings (one of them being stopt, the other not) to agree in one and the same sound: The Letters are Eight, <hi>A, B, C, D, E, F, G, H</hi>; seven of these are assigned to the seven <hi>Frets</hi> on the Neck of the <hi>Viol</hi>; <hi>A</hi> is for the string open, so <hi>B</hi> is the first <hi>Fret, C</hi> the second, <hi>D</hi> the third, <hi>E</hi> the fourth, <hi>F</hi> the fifth, <hi>G</hi> the sixth, and <hi>H</hi> the seventh.</p>
-                     <figure>
-                        <head>Six Strings.</head>
-                     </figure>
+                     <p>
+                        <hi>Example.</hi>
+                        <figure>
+                           <head>Six Strings.</head>
+                        </figure>
+                     </p>
                      <p>When you begin to Tune, raise your <hi>Treble</hi> or smallest string as high as conveni<g ref="char:EOLhyphen"/>ently it will bear without breaking; then stop only your second or <hi>small Mean</hi> in <hi>F,</hi> and
 <pb n="94" facs="tcp:97795:55"/>
 tune it till it agree in sound with your <hi>Treble</hi> open; that done, stop your <hi>Third</hi> in <hi>F,</hi> and make it agree with your <hi>Second</hi> open; then stop your <hi>Fourth</hi> in <hi>F,</hi> and make it agree with your <hi>Third</hi> open; then stop your <hi>Fifth</hi> in <hi>F,</hi> and make it agree with your <hi>Fourth</hi> open; and lastly, stop your <hi>Sixth</hi> in <hi>F,</hi> and make it agree to your <hi>Fifth</hi> open. This being exact<g ref="char:EOLhyphen"/>ly done, you will find your <hi>Viol</hi> in Tune, ac<g ref="char:EOLhyphen"/>cording to the Rule of the <hi>Gam-vt.</hi>
@@ -2828,7 +2838,9 @@ fifth ascending, is all one with the fourth de<g ref="char:EOLhyphen"/>scending.
                         </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap> that part which stands in the third or tenth above the <hi>Bass,</hi> shall fall into an eighth, that which is a fifth shall pass into a third, and that which is an eighth shall remove into a fifth.</p>
-                     <figure/>
+                     <p>But that all this may appear
+<figure/>
+more plain and easie, I have drawn it all into these six figures,</p>
                      <p>Though you find here only mention<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>d and figured a third, fifth, and eighth, yet not only these single Concords are meant, but by them also their <note n="(c)" place="bottom">
@@ -2974,9 +2986,12 @@ all his compounds) then the <hi>Mean</hi> must be a tenth, and the <hi>Tenor</hi
                                  </gap> set to make it the greater third. The same is to be observed in what Part soever this third shall happen.</hi>
                            </p>
                         </note> under it, trouble the young Beginner; let him therefore know, that a third under the <hi>Bass,</hi> is a sixth above it, and if it be a greater third, it yields a lesser sixth above; if the lesser third, the greater sixth. A fourth underneath the <hi>Bass</hi> is a fifth above, and a fifth under the <hi>Bass</hi> is a fourth above it. A sixth beneath the <hi>Bass</hi> is a third above, and if it be the lesser sixth, then is the third above the greater third, and if the greater sixth underneath, then is it the lesser third above: And thus far I have di<g ref="char:EOLhyphen"/>gressed for the Scholars sake.</p>
-                     <figure>
-                        <head>Treb. M. Ten. Bass.</head>
-                     </figure>
+                     <p>
+                        <pb n="12" facs="tcp:97795:76"/>
+                        <figure>
+                           <head>Treb. M. Ten. Bass.</head>
+                        </figure>
+                     </p>
                      <p>
                         <hi>Which being prick'd in several Parts, appeareth thus:</hi> 3 8 3 5 3 8 3 5 3 <hi>Treble.</hi> 
                         <gap reason="music">
@@ -2993,7 +3008,10 @@ all his compounds) then the <hi>Mean</hi> must be a tenth, and the <hi>Tenor</hi
                            <desc>〈♫〉</desc>
                         </gap>
                      </p>
-                     <figure/>
+                     <p>
+                        <pb n="13" facs="tcp:97795:76"/>If I should discover no more than this al<g ref="char:EOLhyphen"/>ready deciphered of <hi>Counterpoint,</hi> wherein the native order of four parts with use of the Concords, is demonstratively expressed, might I be my own Judge, I had effected more in <hi>Counterpoint,</hi> than any man before me hath ever attempted, but I will yet pro<g ref="char:EOLhyphen"/>ceed a little further. And that you may per<g ref="char:EOLhyphen"/>ceive how cunning and how certain nature is in all her operations, know that what Cords have held good in this ascending and descen<g ref="char:EOLhyphen"/>ding of the <hi>Bass,</hi> answer in the contrary by the very same rule, though not so formally as the other, yet so, that much use is, and may be made of this sort of <hi>Counterpoint.</hi> To keep the figures iu your memory,
+<figure/>
+I will here place them again, and under them plain Examples.</p>
                      <p>
                         <pb n="14" facs="tcp:97795:77"/>8 5 8 5 8 5 5 8 5 8 5 8 <gap reason="music">
                            <desc>〈♫〉</desc>
